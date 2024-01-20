@@ -1,12 +1,7 @@
 """
-Assignment 2: Temperature Conversions
-Submitted by Jasmol Singh Dhesi
-Submitted:  January 18, 2024
-
-Assignment 2: This assignment prompts the user for a temperature in Celsius and
+Temperature Conversions
+Description: This module prompts the user for a temperature in Celsius and
 then converts that temperature to a specified different temperature unit.
-
-Assignment 1: This program demonstrates printing lines of text to the screen
 """
 
 
@@ -17,11 +12,11 @@ def print_header():
     This function prints the header information: the project name and author
 
     Output:
-    STEM Center Temperature Project
-    Jasmol Dhesi
+    Python Extroadinare
+    JasmolSD
     """
-    print("STEM Center Temperature Project")
-    print("Jasmol Singh Dhesi")
+    print("Python Extroadinare:")
+    print("JasmolSD")
 
 
 def convert_units(celsius_value, units):
@@ -155,8 +150,10 @@ if __name__ == "__main__":
     main()
 
 r"""
-STEM Center Temperature Project
-Jasmol Singh Dhesi
+*** SAMPLE OUTPUT ***
+
+Python Extroadinare
+JasmolSD
 
 Please enter a numerical temperature value in Celsius: 9-
 
@@ -184,68 +181,6 @@ Conversion units value accepted: 1 Fahrenheit
 
 ...
 Success! Your input has been converted to 140.0 Fahrenheit.
-
-Process finished with exit code 0
-
-***Sample output 2***
-STEM Center Temperature Project
-Jasmol Singh Dhesi
-
-Please enter a numerical temperature value in Celsius: 45.9
-
-Please enter the units value for the conversion desired:
- Input 0 for a result in Celsius.
- Input 1 for a result in Fahrenheit.
- Input 2 for a result in Kelvin.
- Enter units here: 0
-
-Temperature value accepted: 45.9 Celsius
-
-Conversion units value accepted: 0 Celsius
-
-...
-Success! Your input has been converted to 45.9 Celsius.
-
-Process finished with exit code 0
-
-
-***Sample output 3***
-STEM Center Temperature Project
-Jasmol Singh Dhesi
-
-Please enter a numerical temperature value in Celsius: 78
-
-Please enter the units value for the conversion desired:
- Input 0 for a result in Celsius.
- Input 1 for a result in Fahrenheit.
- Input 2 for a result in Kelvin.
- Enter units here: 2
-
-Temperature value accepted: 78 Celsius
-
-Conversion units value accepted: 2 Kelvin
-
-...
-Success! Your input has been converted to 351.15 Kelvin.
-
-Process finished with exit code 0
-STEM Center Temperature Project
-Jasmol Singh Dhesi
-
-Please enter a numerical temperature value in Celsius: 135.64
-
-Please enter the units value for the conversion desired:
- Input 0 for a result in Celsius.
- Input 1 for a result in Fahrenheit.
- Input 2 for a result in Kelvin.
- Enter units here: 1
-
-Temperature value accepted: 135.64 Celsius
-
-Conversion units value accepted: 1 Fahrenheit
-
-...
-Success! Your input has been converted to 276.152 Fahrenheit.
 
 Process finished with exit code 0
 
