@@ -1,8 +1,4 @@
 """
-Assignment 3: Implementing a Menu
-Submitted by Jasmol Singh Dhesi
-Submitted:  January 22, 2024
-
 Assignment 3: This program will build a menu and the code to support it.
 The menu provides a user interface for menu interaction.
 
@@ -20,11 +16,11 @@ def print_header():
     This function prints the header information: the project name and author
 
     Output:
-    STEM Center Temperature Project
-    Jasmol Dhesi
+    Org Name
+    FName LName
     """
-    print("STEM Center Temperature Project")
-    print("Jasmol Singh Dhesi")
+    print("Org Name")
+    print("FName LName")
 
 
 def convert_units(celsius_value, units):
@@ -254,8 +250,8 @@ if __name__ == "__main__":
     main()
 
 r"""
-STEM Center Temperature Project
-Jasmol Singh Dhesi
+Org Name
+FName LName
 Main Menu
 ---------
 1 - Process a new data file
