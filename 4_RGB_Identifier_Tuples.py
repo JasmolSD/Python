@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Feb  4 16:42:41 2024
-
-@author: jasdh
-
 Function: To find a color based of user inputs of RGB values
 Purpose: Deepen understanding of tuples
 """
