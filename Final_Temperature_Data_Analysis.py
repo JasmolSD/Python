@@ -1,7 +1,4 @@
 """
-Submitted by Jasmol Singh Dhesi
-Submission Date: March 13, 2024
-
 Enhancements by Assignment:
 Assignment 11:This assignment implements the print_temp_by_day_time() and get_avg_temperature_day_time() methods.
               The print_temp_by_day_time() function utilizes the get_avg_temperature_day_time() and pandas to
@@ -222,7 +219,7 @@ def print_header():
     Jasmol Singh Dhesi
     """
     print("STEM Center Temperature Project",
-          "\nJasmol Singh Dhesi\n")
+          "\nYour Name\n")
 
 
 def convert_units(celsius_value, units):
@@ -814,7 +811,7 @@ r"""
 SAMPLE RUN:
     
 STEM Center Temperature Project 
-Jasmol Singh Dhesi
+Your Name
 
 Main Menu
 ---------
